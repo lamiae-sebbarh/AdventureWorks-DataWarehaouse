@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AdventureWorksAnalysisTP", "AdventureWorksAnalysisTP\AdventureWorksAnalysisTP.dwproj", "{09261F5C-803B-474E-81A2-55A6D4FDC1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09261F5C-803B-474E-81A2-55A6D4FDC1FB}.Development|Default.ActiveCfg = Development
+		{09261F5C-803B-474E-81A2-55A6D4FDC1FB}.Development|Default.Build.0 = Development
+		{09261F5C-803B-474E-81A2-55A6D4FDC1FB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
