@@ -1,0 +1,9 @@
+CREATE TABLE Customers
+(CustomerKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+ CustomerAlternateKey NVARCHAR(150) NOT NULL,
+ FullName NVARCHAR(150) NULL,
+ Adress NVARCHAR(150) NULL,
+ EmailAdress NVARCHAR(50) NULL,
+ City NVARCHAR(30) NULL,
+ StateProvince NVARCHAR(50) NULL,
+ CountryRegion NVARCHAR(50) NULL)

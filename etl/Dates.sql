@@ -1,0 +1,6 @@
+CREATE TABLE Dates
+(DateKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+ FullDate DATE NOT NULL,  
+ MounthNumberName NVARCHAR(15) NULL ,
+ CalendarQuarter TINYINT NULL,
+ CalendarYear SMALLINT NULL)

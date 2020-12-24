@@ -1,0 +1,7 @@
+CREATE TABLE Produits
+(ProductKey INT NOT NULL PRIMARY KEY,
+ ProductName NVARCHAR(50) NULL,
+ Color NVARCHAR(15) NULL,
+ Size NVARCHAR(50) NULL,
+ SubcategoryName NVARCHAR(30) NULL,
+ CategoryName NVARCHAR(50) NULL)
